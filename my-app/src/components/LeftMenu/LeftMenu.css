@@ -1,0 +1,21 @@
+.Logo {
+  height: 125px;
+  width: 125px;
+}
+
+.iconLink {
+  height: 20px;
+  width: 20px;
+  padding-right: 10px;
+  position: absolute;
+}
+
+.borderIcon {
+  padding-left: 10px;
+  position: absolute;
+}
+
+.textLink {
+  margin-left: 30px;
+  
+}
